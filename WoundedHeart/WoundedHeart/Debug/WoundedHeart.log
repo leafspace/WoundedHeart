@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\18852\desktop\woundedheart\woundedheart\main.cpp(6): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\18852\desktop\woundedheart\woundedheart\main.cpp(7): warning C4305: '+=': truncation from 'double' to 'float'
+  WoundedHeart.vcxproj -> C:\Users\18852\Desktop\WoundedHeart\Debug\WoundedHeart.exe
